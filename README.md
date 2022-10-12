@@ -3,7 +3,8 @@
 <h2>List of Data Structure in this Repository</h2>
 <ol> 
    <li>Hello World</li>
-   <li>Linear List</li>
+   <li>Linear Search</li>
+    <li>Bubble Sort</li>
    <li>Input And Output in 2D Array</li>
    <li>2D Matrics Addition</li>
    <li>Display All Elements of Vector</li>
