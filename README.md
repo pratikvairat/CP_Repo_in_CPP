@@ -6,7 +6,7 @@
    <li>Linear Search</li>
    <li>Linear Search</li>
     <li>Bubble Sort</li>
-   <li>Input And Output in 2D Array</li>
+   <li>Input And Output in 2D Array</li> 
    <li>2D Matrics Addition</li>
    <li>Display All Elements of Vector</li>
  </ol>
